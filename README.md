@@ -1,1 +1,1 @@
-# Java programlama dili ve Spring Framework çatısı kullanılarak yapılan bir web projhesidir.IDE olarak Intellij IDEA, ORM aracı olarak da Hibernate kullanılmıştır.
+# Java programlama dili, Spring Framework çatısı ve Mysql veritabanı kullanılarak yapılan bir web projesidir. IDE olarak Intellij IDEA, ORM aracı olarak da Hibernate ve c3p0 kullanılmıştır. Log kayıtlarını tutmak için Log4j kullanılmıştır. Sunucu olarak Smart Tomcat kullanılmıştır. İşlemlerş görmek içinse Rest test aracı olan Insomnia REST Client kullanılmıştır.
